@@ -4,5 +4,5 @@ Building algorithms from scratch offers unparalleled learning opportunities and 
 
 List of Algorithms:
 
-    - ["Linear Regression"](https://github.com/v-sonawane/ml-from-scratch/blob/main/algorithms/linear_regression.py)
+    - <a href="https://github.com/v-sonawane/ml-from-scratch/blob/main/algorithms/linear_regression.py">Linear Regression</a>
 

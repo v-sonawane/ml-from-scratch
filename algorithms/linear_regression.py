@@ -5,11 +5,14 @@ import numpy as np
     
     The equation for linear regression which is y=mx+c.
     
-    A function which will keep optimizing the model training.       Let's go with gradient descent. For that, we will need 3 things. Learning rate, Weights & Bias.
+    A function which will keep optimizing the model training. 
+    Let's go with gradient descent. 
+    For that, we will need 3 things. Learning rate, Weights & Bias.
 
     So, our equation will be y=wx+b where, w=weights & b=bias.
 
-    Note: y & x will be matrices corresponding to the datapoints in the dataset. We will keep updating the weights & bias according to the value of the differentiated form of the mean-squared error (MSE) formula multiplied by the learning rate.
+    Note: y & x will be matrices corresponding to the datapoints in the dataset. 
+    We will keep updating the weights & bias according to the value of the differentiated form of the mean-squared error (MSE) formula multiplied by the learning rate.
 
 '''
 
